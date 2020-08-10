@@ -1,6 +1,6 @@
-# Repository built to store small challenges from platforms like HackerRank and Codewars
+### Repository built to store small challenges from platforms like HackerRank and Codewars
 
-1 - loops
-    - HackerRank
-    - Author: shashank21j
-    [ ] Done?
+1. HackerRank
+    - loops
+        - Author: shashank21j
+        [ ] Done?
