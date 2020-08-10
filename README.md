@@ -10,3 +10,6 @@
     - Print Function
         - Author: shashank21j
         - [x] Done
+    - List Comprehensions
+       - Author: harsh_beria93
+        - [x] Done
