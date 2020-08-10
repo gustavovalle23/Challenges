@@ -3,4 +3,4 @@
 1. HackerRank
     - loops
         - Author: shashank21j
-        [ ] Done?
+        - [ ] Done?
