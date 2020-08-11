@@ -13,3 +13,6 @@
     - List Comprehensions
        - Author: harsh_beria93
         - [x] Done
+    - Find the Runner-Up Score!
+        - Author: harsh_beria93
+        - [ ] Done
