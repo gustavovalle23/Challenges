@@ -15,4 +15,7 @@
         - [x] Done
     - Find the Runner-Up Score!
         - Author: harsh_beria93
-        - [ ] Done
+        - [x] Done
+    - Nested Lists
+        - Author: harsh_beria93
+        - [x] Done
