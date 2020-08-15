@@ -1,6 +1,6 @@
-### Repository built to store small challenges from platforms like HackerRank and URI Online Judge
+## Repository built to store small challenges from platforms like HackerRank and URI Online Judge
 
-1. HackerRank
+### 1. HackerRank
     #### Python
     - Loops
     - Write a Function
@@ -9,7 +9,7 @@
     - Find the Runner-Up Score!
     - Nested Lists
 
-2. URI
+### 2. URI
     #### C
     - Cálculo Simples
     - Gasto de Combustível
@@ -43,3 +43,4 @@
     - Área do Círculo
     - Extremamente Básico
     - Idade em Dias
+    - Teste de Seleção 1
