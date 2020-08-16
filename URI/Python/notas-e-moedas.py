@@ -2,7 +2,7 @@
 
 if __name__ == '__main__':
 
-    def minMoedas(num):
+    def minNotaseMoedas(num):
         print('NOTAS:')
 
         flag = num // 100
@@ -48,4 +48,4 @@ if __name__ == '__main__':
 
     num = float(input(''))
 
-    minMoedas(num)
+    minNotaseMoedas(num)
