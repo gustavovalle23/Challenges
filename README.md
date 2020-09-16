@@ -47,3 +47,5 @@
     - Notas e Moedas
     - Fórmula de Bhaskara
     - Lanche
+    - Intervalo
+    - Media 3
