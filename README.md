@@ -49,3 +49,4 @@
     - Lanche
     - Intervalo
     - Media 3
+    - Coordenadas de um Ponto
