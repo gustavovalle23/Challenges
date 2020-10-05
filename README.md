@@ -50,3 +50,7 @@
     - Intervalo
     - Media 3
     - Coordenadas de um Ponto
+    - Multiplos
+    - Pares, Impares, Positivos, Negativos
+    - Tipos de Triangulos
+    - Triangulos
