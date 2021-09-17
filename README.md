@@ -54,3 +54,4 @@
     - Pares, Impares, Positivos, Negativos
     - Tipos de Triangulos
     - Triangulos
+    - Soma de Impares Consecutivos 2
